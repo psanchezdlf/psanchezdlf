@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Patri!
 
-Soy **Licenciada en Periodismo**, especializada en **Redacción SEO** y **Marketing Digital**, con pasión por el **diseño creativo** y en proceso de convertirme en **Web Developer** 👩🏼‍💻
+**Licenciada en Periodismo**, especialista en **Redacción SEO** y **Marketing Digital**, apasionada del **diseño creativo** y en proceso de convertirme en **Web Developer** 👩🏼‍💻
 
 ## 👩🏼‍🦰 Un poco sobre mí
 
@@ -26,4 +26,10 @@ Soy **Licenciada en Periodismo**, especializada en **Redacción SEO** y **Market
 > 🔎 *“Si no sé hacerlo, lo busco y lo hago”*  
 
 Me gusta enfrentar desafíos, aprender sobre la marcha y mejorar cada día un poquito más.
+
+---
+
+## 📫 ¿Conectamos?
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/patriciasanchezdlf/)
 
