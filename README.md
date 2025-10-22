@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Patri!
 
-<!--
-**psanchezdlf/psanchezdlf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Licenciada en Periodismo**, especializada en **Redacción SEO** y **Marketing Digital**, con pasión por el **diseño creativo** y en proceso de convertirme en **Web Developer** 👩🏼‍💻
 
-Here are some ideas to get you started:
+## 👩🏼‍🦰 Un poco sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💜 Apasionada por crear contenido útil, claro y con personalidad.  
+- 📰 Experiencia en comunicación digital y marketing.  
+- 🎨 Creativa y curiosa — siempre aprendiendo algo nuevo.  
+- ⏳ En constante evolución en el mundo tech.
+
+---
+
+## 🛠️ Tecnologías y herramientas que uso o estoy aprendiendo
+
+- 🖥️ HTML | CSS | JavaScript *(en progreso)*  
+- 🧰 Git & GitHub  
+- ✍️ SEO & Copywriting  
+- 🧠 Diseño digital y marketing estratégico
+
+---
+
+## 📈 Mi filosofía de trabajo
+
+> 💬 *“Mejor hecho que perfecto”*  
+> 🔎 *“Si no sé hacerlo, lo busco y lo hago”*  
+
+Me gusta enfrentar desafíos, aprender sobre la marcha y mejorar cada día un poquito más.
+
