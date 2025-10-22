@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Patri!
 
-**Licenciada en Periodismo**, especialista en **Redacción SEO** y **Marketing Digital**, apasionada del **diseño creativo** y en proceso de convertirme en **Web Developer** 👩🏼‍💻
+**Licenciada en Periodismo**, especialista en **Redacción SEO** y **Marketing Digital**, apasionada del **diseño creativo** y en proceso de convertirme en **Web Developer** 🚀💻
 
 ## 👩🏼‍🦰 Un poco sobre mí
 
